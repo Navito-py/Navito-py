@@ -3,9 +3,18 @@
 
 - ⚡ About me: **I’m a 20 years old man who loves the videogames and the coding, I think I’m a very proactive person (whit a very possible coffee addiction :s)**
 
+- My proyects: **SPA Videogames-PI: A single page application about videogames created using all the resources I learned in SoyHenry**
+
+<div>
+    <img height='130px' src='./images/Capture1.PNG'>
+    <img height='130px' src='./images/Capture2.PNG'>
+    <img height='130px' src='./images/Capture3.PNG'>
+    <img height='130px' src='./images/Capture4.PNG'>
+<div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/navito/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navito/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/navito/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navito/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
