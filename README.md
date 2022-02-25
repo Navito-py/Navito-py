@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ivan Toneatto</h1>
+<h1 align="center">Hi, I'm Ivan Toneatto</h1>
 <h3 align="center">A passionate Full-Stack Developer from Argentina</h3>
 
-- ⚡ About me: **I’m a 20 years old man who loves the videogames and the coding, I think I’m a very proactive person (whit a very possible coffee addiction :s)**
+- ⚡ About me: **I’m a 20 years old man who loves the videogames and the coding, I think I’m a very proactive person (with a very possible coffee addiction :s)**
 
-- My proyects: **SPA Videogames-PI: A single page application about videogames created using all the resources I learned in SoyHenry**
+- ⚡ My proyects: **SPA Videogames-PI: A single page application about videogames created using all the resources I learned in SoyHenry**
+
+- ⚡ My Skills: **React, Redux, HTML, CSS, Express, JavaScript, PostgreSQL, NodeJS**
 
 <div>
     <img height='130px' src='./images/Capture1.PNG'>
